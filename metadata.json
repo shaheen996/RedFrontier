@@ -1,0 +1,6 @@
+{
+  "name": "Martian Map",
+  "description": "AI-powered 3D Mars exploration, planetary geology, and mission planning platform built with CesiumJS and NASA/USGS datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
